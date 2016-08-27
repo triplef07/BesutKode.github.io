@@ -20,3 +20,4 @@
 | hanstananda | hanstananda | http://hanstananda.github.io ||
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
 | magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | |
+| triplef07 | triplef75 | https://noob75.github.io | |
